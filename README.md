@@ -5,4 +5,4 @@ This mini project demonstrates the skills learned in the HTML foundations sectio
 - HTML boilerplate
 - Text formatting
 - Lists
-- Linkns and images
+- Links and images
