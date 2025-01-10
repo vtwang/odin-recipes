@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Garamond', 'Georgia' , serif;
+}
+
+.description, .steps{
+background-color: greenyellow;
+}
+
+.ingredients {
+background-color: antiquewhite;
+}
